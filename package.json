@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "esm": "^3.2.25"
-  }
+  },
+  "name": "reposlearning",
+  "version": "1.0.0",
+  "main": "App.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/labyedh/exemple.git"
+  },
+  "keywords": [
+    "tay"
+  ],
+  "author": "yessine labyedh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/labyedh/exemple/issues"
+  },
+  "homepage": "https://github.com/labyedh/exemple#readme",
+  "description": ""
 }
